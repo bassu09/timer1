@@ -1,0 +1,42 @@
+/* Put your css in here */
+
+*{margin:0; padding:0;}
+
+.container{
+   height:100%;
+   width:100%;
+   background-color:#293B5B;
+}
+.section{
+    height:200px;
+    width:200px;
+    background-color: "blue";
+    float: "center";
+    padding-top: 50px;
+ }
+
+#txt{
+	font-size:"72px";
+   text-align: center;
+	}
+.divGreen{
+    color:green;  
+    font-size:72px;  
+   height:200px;
+    width:200px;
+    float:550px;
+}
+.header{
+   height:200px;
+   width:1100px;
+   background-color:#DDCCCC;	
+}
+
+.divRed{
+   color:red;
+   font-size:72px;	
+   height:200px;
+    width:200px;
+    margin-left:550px;
+}
+
